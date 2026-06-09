@@ -1,0 +1,22 @@
+{
+  "grind": [
+    "Shipping features and refusing to stop.",
+    "Breaking things. Fixing things. Repeat.",
+    "In the zone. Do not disturb."
+  ],
+  "chill": [
+    "Building slowly and deliberately.",
+    "Reading docs voluntarily. Yes, really.",
+    "Debugging without panic today."
+  ],
+  "night": [
+    "Researching ideas and probably overthinking architecture.",
+    "Late night session. Send coffee.",
+    "The best code gets written after midnight."
+  ],
+  "offline": [
+    "Away from keyboard.",
+    "Probably grabbing coffee.",
+    "Recharging."
+  ]
+}
